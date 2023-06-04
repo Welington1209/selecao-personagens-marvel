@@ -1,0 +1,9 @@
+@font-face{
+    font-family: 'super-mario' ; 
+    src: url(../fontes/SuperMario256.ttf)
+}
+
+@font-face {
+    font-family: 'big-gang';
+    src: url(../fontes/Bing\ Bam\ Boum.ttf);
+}

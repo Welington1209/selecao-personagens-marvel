@@ -46,7 +46,7 @@ main{
 .selecao-de-personagens .personagem-grande{
     text-align: center;
     width: 30%;
-    height: 70vh;
+    height: 81vh;
     position: relative;
 }
 
@@ -86,7 +86,7 @@ main{
 
 .selecao-de-personagens .lista-de-personagens{
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap ;
     max-width: 600px;
     justify-content: center;
     gap: 12px;
